@@ -19,3 +19,15 @@ INSERT INTO users (name, age) VALUES
   ("Chase", 26),
   ("Thomas", 26),
   ("Ben", 24);
+
+  INSERT INTO users (title, category, funding_goal, start_date, end_date) VALUES
+    ("KARVD - Modular Wood Carved Wall Panel System", "Design & Tech", 8000, "08/20/2018", "08/29/2018"),
+    ("We Are The Union - Self Care", "Music", 28000, "08/20/2018", "09/14/2018"),
+    ("Little Free Library in West Louisville, Kentucky", "Publishing", 450, "08/20/2018", "08/22/2018"),
+    ("TAP", "Tap", 8000, "08/20/2018", "10/11/2018"),
+    ("The Crude Knight #1", "Illustration & Comics", 8000, "08/20/2018", "08/29/2018"),
+    ("Cafe Art 2019 MyLondon Calendar", "Art", 8000, "08/20/2018", "09/29/2018"),
+    ("Morla : Design", "Design & Tech", 8000, "08/20/2018", "09/10/2018"),
+    ("KARVD - Modular Wood Carved Wall Panel System", "Design & Tech", 8000, "08/20/2018", "09/02/2018"),
+    ("KARVD - Modular Wood Carved Wall Panel System", "Design & Tech", 8000, "08/20/2018", "09/26/2018"),
+    ("Spyra One: The next generation of water guns.", "Design & Tech", 8000, "08/20/2018", "09/04/2018"),
