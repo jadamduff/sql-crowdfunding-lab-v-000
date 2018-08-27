@@ -20,7 +20,7 @@ INSERT INTO users (name, age) VALUES
   ("Thomas", 26),
   ("Ben", 24);
 
-  INSERT INTO users (title, category, funding_goal, start_date, end_date) VALUES
+  INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES
     ("KARVD - Modular Wood Carved Wall Panel System", "Design & Tech", 8000, "08/20/2018", "08/29/2018"),
     ("We Are The Union - Self Care", "Music", 28000, "08/20/2018", "09/14/2018"),
     ("Little Free Library in West Louisville, Kentucky", "Publishing", 450, "08/20/2018", "08/22/2018"),
