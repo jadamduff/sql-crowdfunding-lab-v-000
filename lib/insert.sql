@@ -1,0 +1,21 @@
+INSERT INTO users (name, age) VALUES
+  ("Adam", 25),
+  ("Rachel", 24),
+  ("Jim", 53),
+  ("Kortni", 52),
+  ("Mike", 54),
+  ("Becky", 54),
+  ("Alex", 22),
+  ("Sandra", 22),
+  ("Kristin", 22),
+  ("Gandma", 85),
+  ("Pepaw", 85),
+  ("Drew", 24),
+  ("Allie", 24),
+  ("Josh", 27),
+  ("Paul", 26)
+  ("Wesley", 26),
+  ("David", 26),
+  ("Chase", 26),
+  ("Thomas", 26),
+  ("Ben", 24)
