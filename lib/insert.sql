@@ -13,7 +13,7 @@ INSERT INTO users (name, age) VALUES
   ("Drew", 24),
   ("Allie", 24),
   ("Josh", 27),
-  ("Paul", 26)
+  ("Paul", 26),
   ("Wesley", 26),
   ("David", 26),
   ("Chase", 26),
